@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/krittiwat-chaiboonta-807456140/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -36,7 +36,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26"
+ height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
 </div>
